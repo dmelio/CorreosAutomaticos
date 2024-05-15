@@ -10,7 +10,7 @@ namespace CorreosAutomaticos
 {
     class Conexion
     {
-        public string CadenadeConexion = "Data Source= 138.121.170.38,1434; Initial Catalog=Automotriz; User ID=DevUser; Password=1!querty";
+        public string CadenadeConexion = "ingresar string de conexion";
         SqlConnection Connect;
 
         public SqlConnection EstablecenConexion()
